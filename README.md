@@ -32,7 +32,8 @@ Features a dashboard with net worth tracking, per-account balances, a searchable
 ## Claw Machine Simulator
 A browser-based 3D claw machine game built with Three.js. Players control a claw arm across two axes, drop it on demand, and try to grab plush toys from the pile below — complete with physics, a scoring system, and switchable camera angles.
 Built to explore 3D rendering, real-time input handling, and physics simulation in the browser. The kind of project that's equal parts technical challenge and childhood wish fulfilment.
-Play it now! -> https://crane-game-nu.vercel.app/
+
+[Play it now!]([https://dnd-theta-ten.vercel.app/login](https://crane-game-nu.vercel.app/))
 
 ### Technologies used:
 - VS Code
@@ -48,6 +49,8 @@ Play it now! -> https://crane-game-nu.vercel.app/
 ## Dungeons & Dragons compendium
 A themed reference app for Dungeons & Dragons players. Browse hero classes with lore and artwork, and look up monster stat blocks, armour class, hit points, speed, and ability scores, all presented in an authentic D&D aesthetic.
 Built as a full stack web app with authentication, a heroes section covering class descriptions and imagery, and a monsters index with detailed stat blocks for every creature in the compendium.
+
+[Play it now!](https://dnd-theta-ten.vercel.app/login)
 
 ### Technologies used:
 - VS Code
