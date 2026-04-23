@@ -1,7 +1,7 @@
 # Dimitrios Bitsanis
 I'm a software engineer with over 15 years of experience across quality engineering and full stack development. I've worked at organisations ranging from early stage startups to enterprise scale, including Moody's and Salesforce, building automation frameworks, release pipelines and performance tests. I have a quality first mindset that I bring to product engineering, thinking about failure modes and reliability from day one rather than as an afterthought. I'm currently open to full stack, frontend, backend or quality engineering roles where that combination of engineering depth and delivery experience is genuinely useful.
 
-# Projects
+# Portfolio
 ## Budgeteer
 A local-first personal finance app for mobile. Import your bank transactions via CSV, tag and categorise your spending, and get a clear picture of where your money goes; broken down by week, month, and category.
 No accounts, no server, no data leaving your device. Just your finances, cleanly visualised.
