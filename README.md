@@ -102,7 +102,7 @@ Heroes | Monsters
 ---
 
 ## Game Tracker
-This is a reference site for video games, featuring searchable sections like items, weapons, and armour organized as browsable cards.
+A searchable reference site for video games, with content like items, weapons, and armour organized into browsable card sections. It's built to scale to multiple games, each with its own visual theme.
 
 [Play it now!](https://game-tracker-db.vercel.app/)
 
