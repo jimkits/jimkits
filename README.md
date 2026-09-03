@@ -25,7 +25,7 @@ Dashboard | Accounts | Transactions | Insights
 A browser-based 3D claw machine game built with Three.js. Players control a claw arm across two axes, drop it on demand, and try to grab plush toys from the pile below — complete with physics, a scoring system, and switchable camera angles.
 Built to explore 3D rendering, real-time input handling, and physics simulation in the browser. The kind of project that's equal parts technical challenge and childhood wish fulfilment.
 
-[Play it now!](https://crane-game-nu.vercel.app/)
+[Play it now!](https://crane-game-db.vercel.app/)
 
 ### Technologies used:
 - VS Code
@@ -44,7 +44,7 @@ Front | Side |
 ## Dungeons & Dragons character sheet
 Build, manage, and level up your Dungeons & Dragons characters online.
 
-[Play it now!](https://dnd-character-sheet-seven.vercel.app/)
+[Play it now!](https://dnd-character-sheet-db.vercel.app/)
 
 ### Technologies used:
 | Layer | Tech |
@@ -65,7 +65,7 @@ Roster | Character creation | Selecting species | Selecting background |
 ## Adventure Board
 A browser-based activity tracker. Plan your trips and share them with your friends and family.
 
-[Play it now!](https://adventure-board-three.vercel.app/)
+[Play it now!](https://adventure-board-db.vercel.app/)
 
 ### Technologies used:
 | Layer | Tech |
@@ -86,7 +86,7 @@ Guest | Logged in user | Sharing menu |
 A themed reference app for Dungeons & Dragons players. Browse hero classes with lore and artwork, and look up monster stat blocks, armour class, hit points, speed, and ability scores, all presented in an authentic D&D aesthetic.
 Built as a full stack web app with authentication, a heroes section covering class descriptions and imagery, and a monsters index with detailed stat blocks for every creature in the compendium.
 
-[Play it now!](https://dnd-compendium-umber.vercel.app/)
+[Play it now!](https://dnd-compendium-db.vercel.app/)
 
 ### Technologies used:
 | Layer | Tech |
