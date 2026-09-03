@@ -34,7 +34,51 @@ Built to explore 3D rendering, real-time input handling, and physics simulation 
 - Claude Code for agentic development
 
 ### Images
-<img width="870" height="637" alt="image" src="https://github.com/user-attachments/assets/8e68d87f-38d2-4b47-a0f4-645d2524030b" />
+
+Front | Side |
+:--: | :--:
+<img width="509" height="312" alt="Screenshot From 2026-09-03 11-50-40" src="https://github.com/user-attachments/assets/ef41c2ca-f983-49bb-9a04-26b200652fc3" /> | <img width="509" height="312" alt="Screenshot From 2026-09-03 11-53-57" src="https://github.com/user-attachments/assets/208c1576-5ebd-45c7-9e61-623808a21c30" />
+
+---
+
+## Dungeons & Dragons character sheet
+Build, manage, and level up your Dungeons & Dragons characters online.
+
+[Play it now!](https://dnd-character-sheet-seven.vercel.app/)
+
+### Technologies used:
+| Layer | Tech |
+|---|---|
+| Frontend | Vite + React 19 + TypeScript |
+| Deployment | Vercel |
+| Testing | Vitest (unit/integration) + Playwright (e2e) |
+
+Roster | Character creation | Selecting species | Selecting background |
+:--: | :--: | :--: | :--:
+<img width="262" height="422" alt="Screenshot From 2026-09-03 11-56-46" src="https://github.com/user-attachments/assets/e595d803-a1a8-43fc-aad9-33ab72f32d88" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-01-11" src="https://github.com/user-attachments/assets/7fc80183-eb99-4552-81fd-27197df03731" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-02-06" src="https://github.com/user-attachments/assets/42ce3c52-549e-4511-9baf-73cf4850e2b1" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-04-10" src="https://github.com/user-attachments/assets/688e9023-bbd2-4e6e-9282-061f489d76f0" />
+
+
+
+
+---
+
+## Adventure Board
+A browser-based activity tracker. Plan your trips and share them with your friends and family.
+
+[Play it now!](https://adventure-board-three.vercel.app/)
+
+### Technologies used:
+| Layer | Tech |
+|---|---|
+| Frontend | Vite + React 19 + TypeScript |
+| Deployment | Vercel |
+| Testing | Vitest (unit/integration) + Playwright (e2e) |
+
+### Images
+
+Guest | Logged in user | Sharing menu |
+:--: | :--: | :--: 
+<img width="380" height="316" alt="Screenshot From 2026-09-03 11-41-08" src="https://github.com/user-attachments/assets/47960537-26c9-4975-93ff-993967191fd2" /> | <img width="383" height="270" alt="Screenshot From 2026-09-03 11-35-17" src="https://github.com/user-attachments/assets/0c52b03c-d023-4f7b-9e13-46edb781ba70" /> | <img width="306" height="237" alt="image" src="https://github.com/user-attachments/assets/a0c2ed9e-c2f1-48c9-9155-1a9f2d226ccd" /> |
 
 ---
 
@@ -42,35 +86,18 @@ Built to explore 3D rendering, real-time input handling, and physics simulation 
 A themed reference app for Dungeons & Dragons players. Browse hero classes with lore and artwork, and look up monster stat blocks, armour class, hit points, speed, and ability scores, all presented in an authentic D&D aesthetic.
 Built as a full stack web app with authentication, a heroes section covering class descriptions and imagery, and a monsters index with detailed stat blocks for every creature in the compendium.
 
-[Play it now!](https://dnd-theta-ten.vercel.app/login)
+[Play it now!](https://dnd-theta-ten.vercel.app)
 
 ### Technologies used:
-- VS Code
-- React for front-end
-- ASP.NET Core for REST API back-end
-- Playwright for automated UI tests
-- C# and XUnit for API unit and integration tests
+| Layer | Tech |
+|---|---|
+| Frontend | React |
+| Deployment | Vercel |
+| Testing | Playwright (e2e) |
 
 ### Images
 
 Heroes | Monsters
 :--: | :--: 
-<img width="840" height="619" alt="image" src="https://github.com/user-attachments/assets/e17e1223-c656-49f1-be7a-06339d310ae3" /> | <img width="648" height="674" alt="image" src="https://github.com/user-attachments/assets/ab843aa5-9930-45f2-bdf2-1fbd644abc05" />
-
-## Adventure Board
-A browser-based activity tracker. Plan your trips and share them with your friends and family.
-
-### Technologies used:
-| Layer | Tech |
-|---|---|
-| Frontend | Next.js 15 (App Router) + React + Tailwind CSS |
-| Backend | Next.js API Routes + Server Actions |
-| Database | Supabase (Postgres + Auth + Storage + Realtime) |
-| Deployment | Vercel |
-| Testing | Vitest (unit/integration) + Playwright (e2e) |
-
-### Images
-
-Login | List | Sharing menu |
-:--: | :--: | :--: |
-<img width="325" height="350" alt="image" src="https://github.com/user-attachments/assets/62949f2b-50c3-4966-ab79-4aac5a8074ad" /> | <img width="635" height="396" alt="image" src="https://github.com/user-attachments/assets/722fd2a4-c93e-41b5-8fe3-fd29b5b825dc" /> | <img width="306" height="237" alt="image" src="https://github.com/user-attachments/assets/a0c2ed9e-c2f1-48c9-9155-1a9f2d226ccd" /> |
+<img width="439" height="419" alt="Screenshot From 2026-09-03 12-05-19" src="https://github.com/user-attachments/assets/41eab200-16f0-433a-be91-718f80761869" />
+ | <img width="439" height="419" alt="Screenshot From 2026-09-03 12-06-12" src="https://github.com/user-attachments/assets/4293be95-0835-482c-8fbb-9dfb1126c486" />
