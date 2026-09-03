@@ -57,9 +57,6 @@ Roster | Character creation | Selecting species | Selecting background |
 :--: | :--: | :--: | :--:
 <img width="262" height="422" alt="Screenshot From 2026-09-03 11-56-46" src="https://github.com/user-attachments/assets/e595d803-a1a8-43fc-aad9-33ab72f32d88" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-01-11" src="https://github.com/user-attachments/assets/7fc80183-eb99-4552-81fd-27197df03731" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-02-06" src="https://github.com/user-attachments/assets/42ce3c52-549e-4511-9baf-73cf4850e2b1" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-04-10" src="https://github.com/user-attachments/assets/688e9023-bbd2-4e6e-9282-061f489d76f0" />
 
-
-
-
 ---
 
 ## Adventure Board
@@ -101,3 +98,19 @@ Heroes | Monsters
 :--: | :--: 
 <img width="439" height="419" alt="Screenshot From 2026-09-03 12-05-19" src="https://github.com/user-attachments/assets/41eab200-16f0-433a-be91-718f80761869" />
  | <img width="439" height="419" alt="Screenshot From 2026-09-03 12-06-12" src="https://github.com/user-attachments/assets/4293be95-0835-482c-8fbb-9dfb1126c486" />
+
+---
+
+## Game Tracker
+This is a reference site for video games, featuring searchable sections like items, weapons, and armour organized as browsable cards.
+
+[Play it now!](https://game-tracker-db.vercel.app/)
+
+### Technologies used:
+- Vite + React 18 + TypeScript
+
+### Images
+
+| Game selection | Bosses | Weapons |
+:--: | :--: | :--:
+<img width="402" height="415" alt="Screenshot From 2026-09-03 14-40-02" src="https://github.com/user-attachments/assets/253bbb49-7d1c-4ce4-b65b-fd179e0d1af8" /> | <img width="402" height="415" alt="Screenshot From 2026-09-03 14-40-34" src="https://github.com/user-attachments/assets/bbeb8414-554a-46b9-accf-d0551f80b68c" /> | <img width="402" height="415" alt="Screenshot From 2026-09-03 14-40-40" src="https://github.com/user-attachments/assets/336f9062-ac03-4eb3-829c-960b3911ecf3" />
