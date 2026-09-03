@@ -86,7 +86,7 @@ Guest | Logged in user | Sharing menu |
 A themed reference app for Dungeons & Dragons players. Browse hero classes with lore and artwork, and look up monster stat blocks, armour class, hit points, speed, and ability scores, all presented in an authentic D&D aesthetic.
 Built as a full stack web app with authentication, a heroes section covering class descriptions and imagery, and a monsters index with detailed stat blocks for every creature in the compendium.
 
-[Play it now!](https://dnd-theta-ten.vercel.app)
+[Play it now!](https://dnd-compendium-umber.vercel.app/)
 
 ### Technologies used:
 | Layer | Tech |
