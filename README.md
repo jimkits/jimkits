@@ -41,10 +41,10 @@ Front | Side |
 
 ---
 
-## Dungeons & Dragons character sheet
-Build, manage, and level up your Dungeons & Dragons characters online.
+## The Hearth
+Build, manage, and level up your table characters online.
 
-[Play it now!](https://dnd-character-sheet-db.vercel.app/)
+[Play it now!](https://the-hearth.vercel.app/)
 
 ### Technologies used:
 | Layer | Tech |
@@ -53,9 +53,9 @@ Build, manage, and level up your Dungeons & Dragons characters online.
 | Deployment | Vercel |
 | Testing | Vitest (unit/integration) + Playwright (e2e) |
 
-Roster | Character creation | Selecting species | Selecting background |
-:--: | :--: | :--: | :--:
-<img width="262" height="422" alt="Screenshot From 2026-09-03 11-56-46" src="https://github.com/user-attachments/assets/e595d803-a1a8-43fc-aad9-33ab72f32d88" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-01-11" src="https://github.com/user-attachments/assets/7fc80183-eb99-4552-81fd-27197df03731" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-02-06" src="https://github.com/user-attachments/assets/42ce3c52-549e-4511-9baf-73cf4850e2b1" /> | <img width="262" height="422" alt="Screenshot From 2026-09-03 12-04-10" src="https://github.com/user-attachments/assets/688e9023-bbd2-4e6e-9282-061f489d76f0" />
+The hearth | Character creation | Selecting class |
+:--: | :--: | :--: 
+<img width="280" height="317" alt="Screenshot From 2026-11-23 13-49-35" src="https://github.com/user-attachments/assets/24961d82-e369-4935-9198-9e787a37e526" /> | <img width="280" height="317" alt="Screenshot From 2026-11-23 13-49-50" src="https://github.com/user-attachments/assets/1e345166-a7a6-4e51-a2a1-d42310b74887" /> | <img width="280" height="317" alt="Screenshot From 2026-11-23 13-50-13" src="https://github.com/user-attachments/assets/7699da4b-7123-4900-a32f-03b8ef5aeee8" />
 
 ---
 
